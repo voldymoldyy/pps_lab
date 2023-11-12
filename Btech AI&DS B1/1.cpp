@@ -13,4 +13,5 @@ int main()
         count++;
     }
     std::cout << "length of string: " << count;
+    std::cout << "hi roni";
 }
